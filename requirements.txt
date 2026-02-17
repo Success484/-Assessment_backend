@@ -47,7 +47,7 @@ httpx==0.28.1
 idna==3.11
 importlib_metadata==8.7.1
 jax==0.4.31
-jaxlib==0.4.31
+jaxlib==0.4.34
 Jinja2==3.1.6
 kiwisolver==1.4.5
 lxml==5.3.0
